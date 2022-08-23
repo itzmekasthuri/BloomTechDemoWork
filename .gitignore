@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.csv
+*.html
+!form.html
+!form0.html
+Colab
+.env
+
